@@ -1,0 +1,16 @@
+E:\CS\ReportPublish\bin\Debug\netcoreapp3.1\ReportPublish.exe
+E:\CS\ReportPublish\bin\Debug\netcoreapp3.1\ReportPublish.deps.json
+E:\CS\ReportPublish\bin\Debug\netcoreapp3.1\ReportPublish.runtimeconfig.json
+E:\CS\ReportPublish\bin\Debug\netcoreapp3.1\ReportPublish.runtimeconfig.dev.json
+E:\CS\ReportPublish\bin\Debug\netcoreapp3.1\ReportPublish.dll
+E:\CS\ReportPublish\bin\Debug\netcoreapp3.1\ReportPublish.pdb
+E:\CS\ReportPublish\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+E:\CS\ReportPublish\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+E:\CS\ReportPublish\obj\Debug\netcoreapp3.1\ReportPublish.csprojAssemblyReference.cache
+E:\CS\ReportPublish\obj\Debug\netcoreapp3.1\ReportPublish.AssemblyInfoInputs.cache
+E:\CS\ReportPublish\obj\Debug\netcoreapp3.1\ReportPublish.AssemblyInfo.cs
+E:\CS\ReportPublish\obj\Debug\netcoreapp3.1\ReportPublish.csproj.CoreCompileInputs.cache
+E:\CS\ReportPublish\obj\Debug\netcoreapp3.1\ReportPublish.csproj.CopyComplete
+E:\CS\ReportPublish\obj\Debug\netcoreapp3.1\ReportPublish.dll
+E:\CS\ReportPublish\obj\Debug\netcoreapp3.1\ReportPublish.pdb
+E:\CS\ReportPublish\obj\Debug\netcoreapp3.1\ReportPublish.genruntimeconfig.cache
